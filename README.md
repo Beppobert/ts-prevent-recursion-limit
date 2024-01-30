@@ -1,0 +1,1 @@
+# ts-prevent-recursion-limit
